@@ -25,7 +25,7 @@ Intel e1000
 
 ## Disk
 
-Zvol in AHCI mode. Default 4k block size worked fine for me since Windows 10 supports it.
+Sparse Zvol in AHCI mode. Default 4k block size worked fine for me since Windows 10 supports it.
 
 ## VNC / Serial
 

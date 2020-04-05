@@ -1,4 +1,4 @@
-##These notes are for creating Ubuntu 16.04 LTS VM on top of FreeBSD/FreeNAS bhyve
+## These notes are for creating Ubuntu 16.04 LTS VM on top of FreeBSD/FreeNAS bhyve
 Tested on FreeNAS 11.2/11.3
 
 ----
@@ -31,7 +31,7 @@ I had trouble with my OpenWRT dnsmasq setting up Ubuntu default gateway at one p
 
 Ubuntu recommends 25GB
 
-Zvol in AHCI mode. VirtIO might work better. Default sector size since my pool is already running 4k sectors
+Sparse Zvol in AHCI mode. VirtIO might work better. Default sector size since my pool is already running 4k sectors
 
 ## VNC / Serial
 

@@ -33,7 +33,7 @@ NetKVM directory contains the VirtIO network driver
 
 ## Disk
 
-Zvol in AHCI mode.
+Sparse Zvol in AHCI mode.
 
 VirtIO failed to work for me. It's important to use 512 sector size, since Windows 7 by default lacks 4k support
 
