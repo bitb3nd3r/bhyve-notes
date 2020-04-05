@@ -1,7 +1,7 @@
-These notes are for creating Ubuntu 16.04 LTS VM on FreeBSD/FreeNAS bhyve
+##These notes are for creating Ubuntu 16.04 LTS VM on top of FreeBSD/FreeNAS bhyve
 Tested on FreeNAS 11.2/11.3
 
-[[_TOC_]]
+----
 
 ## Virtual CPUs
 
