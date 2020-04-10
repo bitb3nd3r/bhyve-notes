@@ -31,7 +31,7 @@ I had trouble with my OpenWRT dnsmasq setting up Ubuntu default gateway at one p
 
 Ubuntu recommends 25GB
 
-Sparse Zvol in AHCI mode. VirtIO might work better. Default sector size since my pool is already running 4k sectors
+Sparse Zvol in either VirtIO or AHCI mode. VirtIO should work better. Default sector size since my pool is already running 4k sectors
 
 ## VNC / Serial
 

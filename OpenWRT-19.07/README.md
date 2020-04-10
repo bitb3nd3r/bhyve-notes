@@ -1,5 +1,5 @@
 ## These notes are for creating OpenWRT 19.07.x VM on top of FreeBSD/FreeNAS bhyve
-Tested on FreeNAS 11.2/11.3 and withopenwrt-19.07.2-x86-64-combined-ext4.img
+Tested on FreeNAS 11.2/11.3 and with openwrt-19.07.2-x86-64-combined-ext4.img image
 
 ----
 
