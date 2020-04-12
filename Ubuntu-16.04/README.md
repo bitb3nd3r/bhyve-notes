@@ -15,7 +15,10 @@ Ubuntu recommends 2GB+
 
 UEFI
 
-First boot might fail. In which case ...
+First boot might fail. In which case you will have to wait for the UEFI to timeout and boot it from a file manually like so:
+![alt text](boot/UEFI-1.png "UEFI exit")
+
+Once at the console do the following
 ```bash
 sudo mkdir -p /boot/efi/EFI/BOOT/
 cp /boot/efi/EFI/ubuntu/grubx64.efi /boot/efi/EFI/BOOT/bootx64.efi
