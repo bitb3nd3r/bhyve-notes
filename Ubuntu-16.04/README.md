@@ -16,7 +16,13 @@ Ubuntu recommends 2GB+
 UEFI
 
 First boot might fail. In which case you will have to wait for the UEFI to timeout and boot it from a file manually like so:
-![alt text](boot/UEFI-1.png "UEFI exit")
+![alt text](boot/UEFI-1.png "UEFI 1")
+![alt text](boot/UEFI-2.png "UEFI 2")
+![alt text](boot/UEFI-3.png "UEFI 3")
+![alt text](boot/UEFI-4.png "UEFI 4")
+![alt text](boot/UEFI-5.png "UEFI 5")
+![alt text](boot/UEFI-6.png "UEFI 6")
+![alt text](boot/UEFI-7.png "UEFI 7")
 
 Once at the console do the following
 ```bash
